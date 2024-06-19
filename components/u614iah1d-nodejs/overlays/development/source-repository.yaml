@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: u614iah1d-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/u614iah1d-nodejs
